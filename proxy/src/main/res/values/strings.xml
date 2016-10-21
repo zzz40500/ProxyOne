@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Proxy</string>
+    <string name="setup_on_failure">开启失败</string>
+    <string name="set_proxy_success">设置代理成功!!</string>
+    <string name="set_proxy_title">设置代理</string>
+    <string name="proxy_host_name">代理地址:</string>
+    <string name="close_proxy">代理已关闭。</string>
+    <string name="proxy_port_title">代理端口 :</string>
+    <string name="proxy_hostname_title">代理地址 :</string>
+    <string name="proxy_enable_title">当前代理</string>
+</resources>
